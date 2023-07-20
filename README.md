@@ -6,7 +6,7 @@ Tela de assinatura para um serviço de assinatura fictício da Alura chamado Alu
 </p>
 
 <p align = "center">
-<img alt="Tela final" src="./images/Alura+" widgth = "100%">
+<img alt="Tela final" src="./img/Alura+" widgth = "100%">
 </p>
 
 ## 🚀 Tecnologias
